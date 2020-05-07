@@ -1,0 +1,14 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Triangle.cpp
+  Sphere.cpp
+  Tracer.cpp
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(113): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(216): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(257): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(268): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(270): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\courses\cs500\backup\ivan\cs500-project5\cs500-project5\source\tracer.cpp(286): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
